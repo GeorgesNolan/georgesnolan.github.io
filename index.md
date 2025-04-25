@@ -1,4 +1,4 @@
 ---
-title: The Negative Mental States Blog
+title: Negative Mental States
 ---
-Shouting into (and out of) the maw. 
+Shouting into (and out of) the maw.
